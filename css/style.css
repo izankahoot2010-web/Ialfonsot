@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    text-decoration: none;
+    list-style: none;
+}
+
+td, th {
+    text-align: center;
+}
+
+.diaSetmana {
+    background-color: lightgrey;
+}
+
+.aw {
+    background-color: crimson;
+    color: white;
+}
+
+.mme {
+    background-color: rgb(42, 130, 80);
+    color: white;
+}
+
+.som {
+    background-color: rgb(255, 140, 0);
+    color: white;
+}
+
+.ipo1 {
+    background-color: rgb(43, 84, 206);
+    color: white;
+}
+
+.ipo2 {
+    background-color: rgb(42, 86, 167);
+    color: white;
+}
+
+.xl {
+    background-color: rgb(255, 217, 0);
+}
+
+.optatiu {
+    background-color: rgb(203, 30, 117);
+    color: white;
+}
+
+.ing {
+    background-color: rgb(53, 211, 211);
+    color: white;
+}
+
+.ao {
+    background-color: rgb(164, 84, 47);
+    color: white;
+}
+
+.tutoria {
+    background-color: rgb(91, 78, 78);
+    color: white;
+}
+
+.pati {
+    background-color: rgb(205, 38, 38);
+}
